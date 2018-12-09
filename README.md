@@ -31,6 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+### React Toggle-button
+
+<img width="319" alt="screen shot 2018-12-09 at 21 33 40" src="https://user-images.githubusercontent.com/35367494/49703207-24a52a80-fbfa-11e8-8022-ceb3a2d8efe8.png">
+
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
